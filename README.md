@@ -1,7 +1,7 @@
 # LinkTree
 
 <h1> Olá eu Sou o Kayque </h1>
-<p aling="center"> Olá novamente eu sou o Kayque e tenho 18 anos sou um programador auto de data no momento estudo PHP, CSS, HTML e JavaScript</p>
+<p aling="center"> Olá novamente eu sou o Kayque e tenho 21 anos sou um programador auto de data no momento estudo PHP, CSS, HTML e JavaScript</p>
 
 <p aling="center"> Linguagens usadas nesse projeto foram </p>
 <h3> *HTML </h3>
